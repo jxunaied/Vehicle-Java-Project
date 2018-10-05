@@ -1,0 +1,16 @@
+Name : Lamb
+Type : Sports
+Speed: 365 Km/h
+Relese Date: 2015
+Acceleration: 3.2/s
+Handling: good
+Other Info: nothing
+
+Name : Astorn Martin
+Type : Luxary
+Speed: 250 Km/h
+Relese Date: 2011
+Acceleration: good
+Handling: good
+Other Info: nothing
+

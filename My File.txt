@@ -1,0 +1,8 @@
+Name : Lamb
+Type : Sports
+Speed: 365 Km/h
+
+Name : Astorn Martin
+Type : Luxary
+Speed: 250 Km/h
+
